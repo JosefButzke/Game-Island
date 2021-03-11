@@ -12,7 +12,7 @@ public class ItemPickup : MonoBehaviour
 
         if(wasPickedUp)
         {
-            Destroy(gameObject);            
+            Destroy(gameObject);
         }
     }
 }
